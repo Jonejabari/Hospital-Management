@@ -223,6 +223,7 @@
                                   <Component id="txtdate" min="-2" pref="35" max="-2" attributes="0"/>
                                   <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
                               </Group>
+
                           </Group>
                           <Group type="103" groupAlignment="3" attributes="0">
                               <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
